@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 🌱 I’m currently learning **Django Rest framework**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 💬 Ask me about **python, aiogram, django, django rest**
 
